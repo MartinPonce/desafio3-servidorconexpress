@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "title": "libreria",
+        "description": "cuadernos",
+        "price": 1500,
+        "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fes%2Fsearch%2Fcuadernos&psig=AOvVaw07O6qnWyt1Yz1VEXoa7nd2&ust=1683071005489000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCOiE0p6m1f4CFQAAAAAdAAAAABAE",
+        "code": "cuad110",
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "title": "libreria",
+        "description": "carpetas",
+        "price": 1700,
+        "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fes%2Fsearch%2Fcarpeta&psig=AOvVaw2qqbvXgfpwhSKqidRXTciX&ust=1683071348310000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCJC1kcGn1f4CFQAAAAAdAAAAABAE",
+        "code": "carp115",
+        "stock": 20
+    },
+    {
+        "id": 3,
+        "title": "libreria",
+        "description": "lapiceras",
+        "price": 1300,
+        "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lapicerasdecalidad.com.ar%2Fshop%2Flapicera-gijon%2F&psig=AOvVaw0391zKoTOtaZdvSinCUeKp&ust=1683071439958000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCOilzuyn1f4CFQAAAAAdAAAAABAE",
+        "code": "lap120",
+        "stock": 12
+    },
+    {
+        "id": 4,
+        "title": "libreria",
+        "description": "lapices",
+        "price": 1000,
+        "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.es%2Ffotos%2Flapices-colores&psig=AOvVaw3WZE_nv3aAKan1a5Z91tbl&ust=1683071540280000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCODf7pyo1f4CFQAAAAAdAAAAABAE",
+        "code": "lapiz125",
+        "stock": 15
+    },
+    {
+        "id": 5,
+        "title": "libreria",
+        "description": "cuadernos",
+        "price": 1500,
+        "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fes%2Fsearch%2Fcartulina&psig=AOvVaw2UhNXbpdWpeLvnOcduku5b&ust=1683071666999000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCJiu-dio1f4CFQAAAAAdAAAAABAE",
+        "code": "cart130",
+        "stock": 8
+    }
+]
